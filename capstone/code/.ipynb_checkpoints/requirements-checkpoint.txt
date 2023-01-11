@@ -1,0 +1,6 @@
+Flask==2.2.2
+numpy==1.21.5
+Pillow==9.4.0
+streamlit==1.15.1
+tensorflow==2.10.0
+yolov5==6.2.3
